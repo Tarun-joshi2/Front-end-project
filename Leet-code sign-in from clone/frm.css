@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color:rgb(243, 233, 233);
+}
+.icon{
+    font-family: 'Pacifico', cursive;
+}
+.main{
+    padding:30px;
+    text-align: center;
+    margin-top:50px;
+    margin-left:500px;
+    height: 500px;
+    width: 350px;
+    border-color: aliceblue;
+    border-radius: 5px;
+    background-color: white;
+    display: inline-block;
+}
+.fm{
+    
+    height:50%;
+    width:100%;
+}
+input{
+border-radius: 5px;
+border-style: groove;
+border-color: beige;
+height:30px;
+ width: 300px;
+ display: inline-block;
+ padding: 4px;
+ 
+}
+.main-icon{
+    text-align: center;
+}
+
+ .font{
+     font-size:1rem;
+     font-family: "Helvetica Neue",Helvetica,Arial,sans;
+ }
+.hh{
+    background-color:cyan;
+    height:500px;
+    width: 500px;
+
+
+}
+.h1{
+    background-color: red;
+    height: 300px;
+    width:200px
+}
